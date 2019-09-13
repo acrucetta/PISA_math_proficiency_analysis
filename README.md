@@ -25,4 +25,8 @@
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+* Based on the range of mathematical literacy we have most of the students around a Level 2 & 3 with some outliers at both ends.
+* Helping other students increases math literacy score, up to a point!. We have an interesting finding in that student that "Always" or "Almost Always" help other students study don't do as well as those who do it just "Often". My assumption is that those students that do it "Often" have more time for their own studies. We would need to explore other levels of literacy to understand this better.
+* Those students that study more than two hours have on average a higher level of literacy than other cohorts. Big finding for students looking to improve their grades. More study hours pays off.
+* It seems like the amount of time spent doing homework correlates with higher levels of Math Literacy. Guided Homework and Parent's study time doesn't perform as well.
+* Students who have a different than that of the test actually spend more time in their homework to reach similar levels of literacy than those for whom the test is their first language. Hard work pays off.
